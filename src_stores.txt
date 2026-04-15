@@ -1,0 +1,11 @@
+STORE_ID,CITY,REGION,LAST_UPDATED
+S001,Bangalore,South,2026-01-01
+S002,Mumbai,West,2026-01-05
+S003,Delhi,North,2026-01-10
+S004,Kolkata,East,2026-01-15
+S005,Chennai,South,2026-01-20
+S006,Hyderabad,South,2026-01-25
+S007,Pune,West,2026-02-01
+S008,Ahmedabad,West,2026-02-05
+S009,Lucknow,North,2026-02-10
+S010,Mohali,North,2026-02-15

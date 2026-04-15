@@ -1,0 +1,25 @@
+PROD_ID,PROD_NAME,CATEGORY,BASE_PRICE
+
+P001,Gaming Laptop,Electronics,85000
+
+P002,Wireless Mouse,Electronics,1200
+
+P003,Mechanical Keyboard,Electronics,4500
+
+P004,Office Chair,Furniture,12000
+
+P005,Standing Desk,Furniture,25000
+
+P006,Coffee Mug,Kitchen,450
+
+P007,Water Bottle,Kitchen,800
+
+P008,Running Shoes,Apparel,3500
+
+P009,Cotton T-Shirt,Apparel,900
+
+P010,Yoga Mat,Fitness,1500
+
+P011,Broken Item,Scrap,0
+
+P012,Refund Item,Scrap,-100
